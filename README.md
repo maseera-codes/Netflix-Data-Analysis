@@ -50,6 +50,21 @@ This project explores the Netflix Titles dataset using Python to uncover insight
 
 ---
 
+## 📊 Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+### Content Released by Year
+![Content by Year](images/content_by_year.png)
+
+### Top 10 Countries
+![Top Countries](images/top_10_countries.png)
+
+### Top Genres
+![Top Genres](images/top_genres.png)
+
+
 ## 📁 Project Structure
 
 ```text
